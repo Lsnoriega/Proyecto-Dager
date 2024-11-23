@@ -32,12 +32,7 @@
   object-position: center;
 }
 
-/* Opcionalmente, puedes agregar consultas de medios para ajustar el alto */
-@media (max-width: 768px) {
-  .carousel-item > img {
-    height: 20rem; /* Ajusta el alto para dispositivos más pequeños, si es necesario */
-  }
-}
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
